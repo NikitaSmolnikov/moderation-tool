@@ -127,9 +127,11 @@
 ![image](https://i.imgur.com/uMAZWkX.png)
 
 ![image](https://i.imgur.com/BTSXNVV.png)
+
 Рядом с ником пользователя выводится и его соответствующая роль. 
 
 ![image](https://i.imgur.com/T4N8pLP.png)
+
 Здесь мы можем изменить запасной пароль пользователя, а также поменять роль, удалить пользователя.
 
 ![image](https://i.imgur.com/c5reyE2.png)
