@@ -74,7 +74,9 @@
  
 К примеру, отправка сообщения игроку в личку на сервере:
 
-![image](https://i.imgur.com/fKcccy0.png)
+![image](https://i.imgur.com/SFkA782.png)
+
+![image](https://i.imgur.com/iI4AN3q.png)
 
 
 
